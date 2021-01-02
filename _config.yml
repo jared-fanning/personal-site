@@ -1,6 +1,6 @@
 ---
 title: personal site
-timezone: UTC
+timezone: America/New_York
 collections:
   notes:
     title: Notes
